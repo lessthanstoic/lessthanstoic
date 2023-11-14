@@ -1,4 +1,4 @@
-## :Cym: Intro
+## 📀 Intro
 Hi, I’m @lessthanstoic a Data Engineer with a short background in professional development, 
 but a long background in application of computational skills and solving technical challenges 
 in the field of Life Sciences.
