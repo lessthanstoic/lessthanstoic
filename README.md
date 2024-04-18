@@ -6,10 +6,11 @@ in the field of Life Sciences.
 I invite you take a look around, take in the repos, view the projects, breath in the code.
 Hopefully you will enjoy the experience and maybe even want to collaborate on something cool.
 
+<!---
 ## :book: About Me
 - Data Engineer with a mind as sharp as a sharks tooth
 - 
-
+--->
 
 <!---
 Create a new remote repository and name is as your GitHub username
